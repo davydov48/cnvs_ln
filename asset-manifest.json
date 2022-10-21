@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cnvs_ln/static/css/main.76af66ea.css",
+    "main.js": "/cnvs_ln/static/js/main.d9db2569.js",
+    "index.html": "/cnvs_ln/index.html",
+    "main.76af66ea.css.map": "/cnvs_ln/static/css/main.76af66ea.css.map",
+    "main.d9db2569.js.map": "/cnvs_ln/static/js/main.d9db2569.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76af66ea.css",
+    "static/js/main.d9db2569.js"
+  ]
+}
